@@ -1,2 +1,3 @@
-# blade-runner-wikiesque
+# Blade Runner Wikiesque
+
 A basic wikipedia like webpage of Blade Runner movie. Made with HTML &amp; CSS.
