@@ -1,0 +1,33 @@
+body {
+    font-family: "Ubuntu", sans-serif;
+    background-color: aliceblue;
+    margin: 20px
+}
+
+h1 {
+    color: crimson;
+    font-size: 50px;
+}
+
+h2 {
+    color: darkred;
+}
+
+a:hover {
+    opacity: 0.5;
+    color: green;
+}
+
+ul span {
+    font-style: italic;
+    color:green;
+}
+
+#featured {
+    color: goldenrod;
+    border-bottom: 1px solid goldenrod;
+}
+
+.score {
+    color: goldenrod; 
+}
